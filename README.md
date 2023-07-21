@@ -1,5 +1,7 @@
 # Hugging Face Model Viewer
 
+https://masaishi.github.io/hfmodels/
+
 This project is a web application that utilizes the Hugging Face Hub API to display models and their details. It provides filtering options based on categories and minimum likes. The application is built using React and retrieves data from the Hugging Face Hub API to populate the model information dynamically.
 As a experiment, I make this code by using ChatGPT. I just write a few lines and pass to ChatGPT with prompt and it will generate the code for me.
 
