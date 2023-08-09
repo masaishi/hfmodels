@@ -49,6 +49,7 @@ const App = () => {
       setOriginalData([]);
       setData([]);
       setPage(1);
+      fetchModels();
     }, 1000);
     return () => clearTimeout(timer);
   }, [filter]);
